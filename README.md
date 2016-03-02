@@ -12,10 +12,16 @@ PHP 5.6 Pthreads
 algum outro pacote que der erro veja aqui
 ####http://crybit.com/20-common-php-compilation-errors-and-fix-unix/
 
-####cp php56pthread.zip /opt/
+####cp pacote.zip /opt/
 ####cd /opt/
-####unzip php56pthread.zip
-####cd php-5.6.16/
+####unzip pacote.zip
+####cd php-5.6.16/ext/
+####git clone git clone -b PHP5 https://github.com/krakjoe/pthreads.git
+####git clone git clone -b PHP5 https://github.com/krakjoe/apcu.git
+####git clone git https://github.com/php/pecl-caching-apc.git
+####mv pecl-caching-apc apc
+
+####cd ../
 ####rm configure
 ####./buildconf --force 
 
