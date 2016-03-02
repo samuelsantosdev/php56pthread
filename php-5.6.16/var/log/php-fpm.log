@@ -1,0 +1,62 @@
+[07-Dec-2015 13:29:00] ERROR: [pool www] cannot get uid for user 'www-data'
+[07-Dec-2015 13:29:00] ERROR: FPM initialization failed
+[07-Dec-2015 13:32:19] ERROR: [pool www] cannot get uid for user 'www-data'
+[07-Dec-2015 13:32:19] ERROR: FPM initialization failed
+[07-Dec-2015 13:33:24] NOTICE: fpm is running, pid 6171
+[07-Dec-2015 13:33:24] NOTICE: ready to handle connections
+[07-Dec-2015 13:49:25] NOTICE: Finishing ...
+[07-Dec-2015 13:49:25] NOTICE: exiting, bye-bye!
+[07-Dec-2015 13:49:26] NOTICE: fpm is running, pid 6478
+[07-Dec-2015 13:49:26] NOTICE: ready to handle connections
+[07-Dec-2015 13:54:25] NOTICE: Finishing ...
+[07-Dec-2015 13:54:25] NOTICE: exiting, bye-bye!
+[07-Dec-2015 13:54:26] NOTICE: fpm is running, pid 6614
+[07-Dec-2015 13:54:26] NOTICE: ready to handle connections
+[07-Dec-2015 14:03:05] NOTICE: Finishing ...
+[07-Dec-2015 14:03:05] NOTICE: exiting, bye-bye!
+[07-Dec-2015 14:03:06] NOTICE: fpm is running, pid 12295
+[07-Dec-2015 14:03:06] NOTICE: ready to handle connections
+[07-Dec-2015 14:05:06] NOTICE: Finishing ...
+[07-Dec-2015 14:05:06] NOTICE: exiting, bye-bye!
+[07-Dec-2015 14:05:07] NOTICE: fpm is running, pid 12347
+[07-Dec-2015 14:05:07] NOTICE: ready to handle connections
+[07-Dec-2015 14:05:20] NOTICE: Finishing ...
+[07-Dec-2015 14:05:20] NOTICE: exiting, bye-bye!
+[07-Dec-2015 14:05:21] NOTICE: fpm is running, pid 12364
+[07-Dec-2015 14:05:21] NOTICE: ready to handle connections
+[07-Dec-2015 14:05:33] NOTICE: Finishing ...
+[07-Dec-2015 14:05:33] NOTICE: exiting, bye-bye!
+[07-Dec-2015 14:05:34] NOTICE: fpm is running, pid 12381
+[07-Dec-2015 14:05:34] NOTICE: ready to handle connections
+[07-Dec-2015 14:05:51] NOTICE: Finishing ...
+[07-Dec-2015 14:05:51] NOTICE: exiting, bye-bye!
+[07-Dec-2015 14:05:52] NOTICE: fpm is running, pid 12398
+[07-Dec-2015 14:05:52] NOTICE: ready to handle connections
+[07-Dec-2015 14:08:06] NOTICE: Finishing ...
+[07-Dec-2015 14:08:06] NOTICE: exiting, bye-bye!
+[07-Dec-2015 14:08:10] NOTICE: fpm is running, pid 12413
+[07-Dec-2015 14:08:10] NOTICE: ready to handle connections
+[07-Dec-2015 16:18:31] NOTICE: Finishing ...
+[07-Dec-2015 16:18:31] NOTICE: exiting, bye-bye!
+[07-Dec-2015 16:18:36] NOTICE: fpm is running, pid 26648
+[07-Dec-2015 16:18:36] NOTICE: ready to handle connections
+[07-Dec-2015 16:22:11] NOTICE: Finishing ...
+[07-Dec-2015 16:22:11] NOTICE: exiting, bye-bye!
+[07-Dec-2015 16:22:14] NOTICE: fpm is running, pid 26740
+[07-Dec-2015 16:22:14] NOTICE: ready to handle connections
+[07-Dec-2015 19:44:01] NOTICE: Finishing ...
+[07-Dec-2015 19:44:01] NOTICE: exiting, bye-bye!
+[07-Dec-2015 19:44:02] NOTICE: fpm is running, pid 31020
+[07-Dec-2015 19:44:02] NOTICE: ready to handle connections
+[07-Dec-2015 20:38:15] NOTICE: Finishing ...
+[07-Dec-2015 20:38:15] NOTICE: exiting, bye-bye!
+[07-Dec-2015 20:38:16] NOTICE: fpm is running, pid 32452
+[07-Dec-2015 20:38:16] NOTICE: ready to handle connections
+[07-Dec-2015 20:44:47] NOTICE: Terminating ...
+[07-Dec-2015 20:44:47] NOTICE: exiting, bye-bye!
+[07-Dec-2015 22:45:53] NOTICE: fpm is running, pid 7860
+[07-Dec-2015 22:45:53] NOTICE: ready to handle connections
+[07-Dec-2015 22:46:04] NOTICE: Finishing ...
+[07-Dec-2015 22:46:04] NOTICE: exiting, bye-bye!
+[07-Dec-2015 22:46:05] NOTICE: fpm is running, pid 7876
+[07-Dec-2015 22:46:05] NOTICE: ready to handle connections
