@@ -1,9 +1,9 @@
 # php56pthread
 PHP 5.6 Pthreads
 
-*yum install php-pear
-*pear install PEAR-1.10.1
-*pear install PHP_Archive-0.12.0
+-yum install php-pear
+-pear install PEAR-1.10.1
+-pear install PHP_Archive-0.12.0
 
 yum install bzip2-devel && yum install curl && yum install curl-devel && yum install libpng-devel && yum install libc-client-devel && yum install postgresql-devel && yum install sqlite-devel && yum install libxslt-devel && yum install libxml2-devel && yum install libmcrypt-devel.x86_64 && yum install libtidy libtidy-devel && yum install libjpeg-devel
 yum install mysql-devel && yum install freetype-devel && yum install libicu-devel
